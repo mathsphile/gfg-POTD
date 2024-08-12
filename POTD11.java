@@ -1,7 +1,7 @@
 // Given 2 sorted integer arrays arr1 and arr2 of the same size. Find the sum of the middle elements of two sorted arrays arr1 and arr2.
 
 
-class Solution {
+class POTD11 {
        public int SumofMiddleElements(int[] arr1, int[] arr2) {
               // Merge the two sorted arrays into one sorted array
               int[] merged = new int[arr1.length + arr2.length];
