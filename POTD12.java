@@ -2,7 +2,7 @@
 
 // Floor value of any number is the greatest Integer which is less than or equal to that number
 
-public class Solution {
+public class POTD12 {
     long floorSqrt(long n) {
         if (n == 0 || n == 1)
             return n;
