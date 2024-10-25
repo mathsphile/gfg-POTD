@@ -1,6 +1,6 @@
 //Given a single linked list, calculate the sum of the last n nodes.
 
-//Note: It is guaranteed that n <= number of nodes.
+//POTDNote: It is guaranteed that n <= number of nodes.
 
 class Solution {
 
